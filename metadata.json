@@ -1,0 +1,7 @@
+{
+  "name": "Life Pilot AI",
+  "description": "A personal AI mentor (Murshad) to help users find harmony and balance across the core pillars of their life: Mind, Body, Heart, and Soul. The app features a Harmony Dashboard, daily actions, and a compassionate chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
